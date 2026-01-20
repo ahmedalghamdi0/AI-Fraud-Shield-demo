@@ -8,7 +8,7 @@ Instead of relying only on static credentials such as passwords and OTPs, the sy
 
 Security is behavior-based, not just credential-based.
 
-🚨 The Problem with Traditional Login Systems
+## The Problem with Traditional Login Systems
 
 Most current authentication systems rely on:
 
@@ -24,10 +24,10 @@ Access from unfamiliar devices or locations
 
 Identity theft without the user noticing
 
-⚠️ Core issue:
+## !!!  Core issue:
 Authentication methods are static, while attacks are intelligent and constantly evolving.
 
-💡 The Solution: AI Fraud Shield (AI-Powered)
+ The Solution: AI Fraud Shield (AI-Powered)
 
 AI Fraud Shield adds an advanced security layer that operates silently in the background by:
 
@@ -39,8 +39,8 @@ Detecting anomalies within seconds
 
 Automatically responding based on calculated risk
 
-🧠 How the Intelligent System Works (Conceptual)
-1️⃣ Real-Time Behavioral Analysis
+## How the Intelligent System Works (Conceptual)
+1️- Real-Time Behavioral Analysis
 
 The system evaluates behavioral signals such as:
 
@@ -50,7 +50,7 @@ Geographic location
 
 Typing speed and interaction patterns
 
-2️⃣ Instant Anomaly Detection
+2️- Instant Anomaly Detection
 
 Anomalies may include:
 
@@ -60,7 +60,7 @@ Sensitive account changes
 
 Multiple attempts in a short time frame
 
-3️⃣ Automated Security Response
+3️- Automated Security Response
 
 Based on an AI-calculated Risk Score, the system may:
 
@@ -70,7 +70,8 @@ Automatically terminate sessions
 
 Block suspicious attempts
 
-📊 Example Risk Decision Logic (Illustrative)
+-----
+** Example Risk Decision Logic (Illustrative)
 
 Shown for explanation only — actual logic is private.
 
@@ -88,7 +89,7 @@ ISO 27005
 
 UEBA Frameworks
 
-🖥️ Security Operations Dashboard (SOC)
+## Security Operations Dashboard (SOC)
 
 The system provides a Security Operations Center (SOC) dashboard that displays:
 
@@ -100,9 +101,9 @@ Typing behavior insights
 
 Security alerts and automated decisions
 
-📎 Screenshots, diagrams, and UI previews are included in this demo repository.
+ Screenshots, diagrams, and UI previews are included in this demo repository.
 
-🧪 Testing Results (From Internal Evaluation)
+ Testing Results (From Internal Evaluation)
 
 Anomaly detection accuracy: 92%
 
@@ -111,8 +112,9 @@ Average response time: < 200ms
 Undetected breaches: 0
 
 False positives: Minimal and continuously reduced through baseline updates
+--------
 
-🧱 System Architecture (High-Level)
+ System Architecture (High-Level)
 Core Components (Conceptual)
 
 Risk Engine (dynamic risk scoring)
@@ -125,7 +127,7 @@ Behavioral Baseline Engine
 
 Detailed implementation is intentionally abstracted in this public version.
 
-🛠️ Technologies & Architecture (Disclosure Level)
+## Technologies & Architecture (Disclosure Level)
 Frontend
 
 React – Responsive and interactive UI
