@@ -1,6 +1,6 @@
 # AI-Fraud-Shield-demo
 
-![photo_2025-12-10_18-55-11](https://github.com/user-attachments/assets/bc5bd1df-0b91-48c9-967c-6c1b516f1c7d)
+<img width="1089" height="1051" alt="1765456274359" src="https://github.com/user-attachments/assets/694ec382-d4c6-4dfd-bbcd-295395258cae" />
 
  This repository is a public demo version created for presentation and portfolio purposes only. The full implementation, core logic, and detection algorithms are maintained in a private repository.
 Project Overview
