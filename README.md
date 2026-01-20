@@ -126,6 +126,9 @@ Average response time: < 200ms
 Undetected breaches: 0
 
 False positives: Minimal and continuously reduced through baseline updates
+<img width="1891" height="864" alt="image_2025-12-11_19-35-04" src="https://github.com/user-attachments/assets/21e9f069-4898-4360-8d71-db6959bc3d2a" />
+<img width="1899" height="863" alt="image_2025-12-11_19-29-22" src="https://github.com/user-attachments/assets/d4ce70ae-2dda-4bff-b0f5-b7e4592eab4f" />
+<img width="1881" height="744" alt="image_2025-12-11_19-22-54" src="https://github.com/user-attachments/assets/818f04b5-5086-456b-9328-2c79405abb6c" />
 
 ------
  # System Architecture (High-Level)
